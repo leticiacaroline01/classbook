@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Estatística com Clareza</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0F172A;        /* Fundo principal: azul profundo */
+      --bg-secondary: #1E293B;      /* Fundo do conteúdo */
+      --accent: #3B82F6;            /* Azul digital */
+      --accent-hover: #60A5FA;
+      --text-main: #E2E8F0;         /* Texto claro */
+      --text-muted: #94A3B8;        /* Texto secundário */
+      --code-bg: #1E293B;
+      --code-border: #334155;
+    }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      margin: 0;
+      padding: 0;
+    }
+
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: var(--bg-secondary);
+      padding: 1em 2em;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+
+    .navbar-brand {
+      font-weight: 700;
+      font-size: 1.5rem;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .navbar-nav .nav-link {
+      margin-left: 1em;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    .navbar-nav .nav-link:hover {
+      color: var(--accent);
+    }
+
+    .container-fluid {
+      background-color: var(--bg-secondary);
+      max-width: 850px;
+      margin: 3em auto;
+      padding: 3em;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    h1, h2 {
+      color: var(--accent);
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1em;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 1.8rem;
+      border-bottom: 1px solid var(--code-border);
+      padding-bottom: 0.3em;
+      margin-top: 2em;
+    }
+
+    ul li {
+      margin: 0.5em 0;
+    }
+
+    blockquote {
+      border-left: 4px solid var(--accent);
+      padding-left: 1.2em;
+      color: var(--text-muted);
+      font-style: italic;
+      margin: 2em 0;
+    }
+
+    .box-positive {
+      background-color: #14532D;
+      border-left: 4px solid #22C55E;
+      padding: 1em 1.5em;
+      border-radius: 8px;
+      margin: 2em 0;
+    }
+
+    .box-positive strong {
+      color: #86EFAC;
+    }
+
+    pre, code {
+      background-color: var(--code-bg);
+      border: 1px solid var(--code-border);
+      padding: 0.8em;
+      border-radius: 6px;
+      font-family: monospace;
+      font-size: 0.95rem;
+      overflow-x: auto;
+      display: block;
+      color: var(--accent-hover);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(59, 130, 246, 0.4);
+    }
+
+    a:hover {
+      color: var(--accent-hover);
+      border-bottom-color: var(--accent-hover);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <div class="navbar">
+    <div class="navbar-brand">Estatística com Clareza</div>
+    <div class="navbar-nav">
+      <a href="#" class="nav-link">Início</a>
+      <a href="#" class="nav-link">Capítulos</a>
+      <a href="#" class="nav-link">Sobre</a>
+    </div>
+  </div>
+
+  <!-- Conteúdo Principal -->
+  <div class="container-fluid">
+    <h1>Capítulo 1: Introdução à Estatística</h1>
+    <p>A estatística é a ciência que estuda a coleta, organização, análise e interpretação de dados com o objetivo de apoiar a tomada de decisões.</p>
+
+    <h2>Seção 1.1: Conceitos Básicos</h2>
+    <ul>
+      <li>População e amostra</li>
+      <li>Parâmetro e estatística</li>
+      <li>Tipos de variáveis</li>
+    </ul>
+
+    <blockquote>
+      "A estatística é uma linguagem universal da ciência."
+    </blockquote>
+
+    <div class="box-positive">
+      <strong>Dica:</strong> Sempre visualize seus dados antes de aplicar qualquer técnica estatística.
+    </div>
+
+    <pre><code>mean(c(1, 2, 3, 4, 5))</code></pre>
+
+    <p>Veja mais em <a href="#">nosso repositório GitHub</a>.</p>
+  </div>
+
+</body>
+</html>
+

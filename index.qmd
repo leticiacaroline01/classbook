@@ -1,0 +1,15 @@
+# Prefácio 
+
+Prezado leitor,
+
+É com grande satisfação que apresento este "Livro Caderno de Aula", uma ferramenta desenvolvida com o intuito de aprofundar e consolidar o aprendizado na disciplina FIP 606 – Análise e Visualização de Dados em Fitopatologia.
+
+Este material foi concebido como um companheiro essencial para as aulas ministradas pelo Professor Emerson Del Ponte, cuja expertise e didática guiam o caminho para a compreensão da interface crucial entre a fitopatologia (e outras áreas) e o universo dos dados.
+
+No campo da fitopatologia, a capacidade de coletar, analisar e visualizar dados de forma eficaz é mais do que uma habilidade; é uma necessidade para a tomada de decisões precisas e o avanço da pesquisa. Este caderno busca ser um espaço dinâmico, onde teoria e prática se encontram, permitindo que cada conceito de análise estatística e técnica de visualização seja não apenas assimilado, mas também aplicado ao contexto específico das doenças de plantas.
+
+Que este material sirva como um valioso recurso em sua jornada de aprendizado, auxiliando-o a transformar números e informações complexas em insights claros e ações significativas no controle e manejo de fitopatógenos.
+
+Com os melhores votos de sucesso em seus estudos,
+
+\[Letícia Caroline da Silva Sant'Ana/A autora\]

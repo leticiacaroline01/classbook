@@ -1,0 +1,15 @@
+# Links importantes {.unnumbered}
+
+Chambers, J. M. (2008). Software for data analysis: programming with R (Vol. 2, No. 1). New York: Springer.
+
+GIT. Downloads. \[S. l.\]: Git, \[2025\]. Disponível em: <https://git-scm.com/downloads>. Acesso em: 10 jul. 2025.
+
+GITHUB, INC. GitHub. \[S. l.\]: GitHub, Inc., \[2025\]. Disponível em: <https://github.com/>. Acesso em: 10 jul. 2025.
+
+Micheaux, P. L., Drouilhet, R., & Liquet, B. (2014). The R software: fundamentals of programming and statistical analysis (Vol. 40). Springer Science & Business.
+
+POSIT. RStudio Desktop. \[S. l.\]: Posit, \[2025\]. Disponível em: <https://posit.co/download/rstudio-desktop/>. Acesso em: 10 jul. 2025.
+
+R PROJECT FOR STATISTICAL COMPUTING. R FAQ. \[S. l.\]: The R Project for Statistical Computing, \[2025\]. Disponível em: <https://cran.r-project.org/doc/FAQ/R-FAQ.html>. Acesso em: 10 jul. 2025.
+
+WICKHAM, Hadley; GROLEMUND, Garrett. R for Data Science. \[S. l.\]: O'Reilly, 2017. Disponível em: <https://r4ds.had.co.nz/>. Acesso em: 10 jul. 2025.

@@ -1,0 +1,15 @@
+# Introdução
+
+No cenário atual da Fitopatologia, a capacidade de interpretar e comunicar informações complexas por meio de dados é uma habilidade indispensável. Com o avanço tecnológico e a crescente disponibilidade de dados em diversas frentes da pesquisa e prática fitossanitária, a Análise e Visualização de Dados emergem como pilares fundamentais para a tomada de decisões embasadas e o desenvolvimento de novas estratégias de manejo de doenças de plantas.
+
+Este "Livro Caderno de Aula" foi cuidadosamente elaborado para ser seu guia prático e teórico na jornada de compreensão e aplicação das ferramentas estatísticas e visuais, com foco especial na disciplina **FIP 606 – Análise e Visualização de Dados em Fitopatologia**. Ao longo de suas páginas, você será introduzido ao poderoso ambiente do software R, desde a instalação e carregamento de seus principais pacotes – essenciais para a manipulação, limpeza e visualização de dados, bem como para análises estatísticas e modelagem.
+
+Exploraremos as diversas funções do R para organização, importação de dados de variados formatos (Excel, CSV, Google Sheets) e aprimoraremos sua capacidade de criar gráficos expressivos e informativos. Mergulharemos nas principais análises estatísticas, como testes t, ANOVA, correlação e regressão, abordando também as alternativas para dados que não se encaixam nos pressupostos clássicos.
+
+Além disso, este material o capacitará a desenvolver mapas temáticos no R e até mesmo a criar websites e aplicativos interativos, democratizando o acesso e a interpretação de seus resultados. Mais do que um compêndio de informações, este caderno é um convite à prática, ao raciocínio crítico e à experimentação, visando transformar dados brutos em conhecimento acionável.
+
+Que cada seção o inspire a explorar, questionar e dominar as técnicas de análise e visualização de dados, capacitando-o a desvendar os padrões ocultos por trás dos fenômenos fitopatológicos e a contribuir significativamente para a ciência e a agricultura.
+
+Boa leitura e bons estudos!
+
+![](images/clipboard-3879152783.png)
